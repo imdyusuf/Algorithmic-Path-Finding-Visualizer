@@ -286,8 +286,7 @@ export default function App() {
         </div>
 
         <footer className="mt-6 text-center text-[11px] text-slate-500">
-          Built with React, TypeScript & Tailwind · Drag start/target nodes, draw walls, and choose
-          an algorithm to visualize.
+          Drag start/target nodes, draw walls, and choose an algorithm to visualize.
         </footer>
       </main>
     </div>
