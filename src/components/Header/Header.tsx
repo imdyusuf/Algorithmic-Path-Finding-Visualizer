@@ -53,7 +53,7 @@ export function Header({ status }: HeaderProps) {
             {meta.label}
           </div>
           <a
-            href="https://github.com"
+            href="https://github.com/imdyusuf/Algorithmic-Path-Finding-Visualizer"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="View source on GitHub"
